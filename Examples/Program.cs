@@ -1,6 +1,7 @@
 ﻿using System;
+using Heap;
 
-namespace Heap
+namespace MyExampleProject
 {
     class Program
     {
